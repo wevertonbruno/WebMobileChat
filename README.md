@@ -10,6 +10,8 @@ Follow me on <a href="https://twitter.com/oieusouweverton">Twitter</a> and <a hr
 <hr>
 <br>
 
+<a align="center" href="https://imgur.com/4xO8Mtx"><img src="https://i.imgur.com/4xO8Mtx.png" title="source: imgur.com" /></a>
+
 ## Features
 
  - **Fully responsive** - Layouts using CSS Grid and flexbox, support for all devices.
@@ -18,10 +20,11 @@ Follow me on <a href="https://twitter.com/oieusouweverton">Twitter</a> and <a hr
  
 ## Credits
 
-[@oieusouweverton](https://github.com/oieusouweverton) and all [contributors](https://github.com/oieusouweverton/WebMobileChat/graphs/contributors)
+[@oieusouweverton](https://github.com/oieusouweverton) and all [contributors](https://github.com/wevertonbruno/WebMobileChat/graphs/contributors)
 
 ## License
 
 UNIVASF © [Weverton Bruno](https://github.com/wevertonbruno)
 
  
+[main-image]: https://i.imgur.com/4xO8Mtx.png
