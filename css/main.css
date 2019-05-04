@@ -1,0 +1,26 @@
+:root {
+    --main-color: #8A2BE2;
+    --text-snow: #FFFAFA;
+    --font-title: 'Just Another Hand', cursive;
+    --letter-spacing1: .5rem;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: var(--main-color);
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
